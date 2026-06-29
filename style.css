@@ -51,7 +51,7 @@ img {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
-    margin-bottom: 0;
+    margin-bottom: 15px ;
 }
 
 p.secondary-text {
@@ -80,7 +80,7 @@ button {
 }
 
 .services {
-    padding: 100px 0;
+    margin-bottom: 100px;
 }
 
 .services h1 {
@@ -88,7 +88,7 @@ button {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
-
+    margin-top: 50px;
 }
 
 .card-container {
