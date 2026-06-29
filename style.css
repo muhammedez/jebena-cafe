@@ -30,7 +30,7 @@ img {
 }
 
 .hero {
-    background-color: #1F2937;
+    background-color: #38220f;
     font-size: 18px;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ img {
 
 .header {
     width: 1100px;
-    background-color: #1F2937;
+    background-color: #38220f;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -65,7 +65,7 @@ button {
     padding: 10px 40px;
     border: none;
     border-radius: 8px;
-    background-color: #3882F6;
+    background-color: 	#967259;
 
 }
 
@@ -105,7 +105,7 @@ button {
 .card-image {
     height: 200px;
     width: 200px;
-    border: #3882F6 solid 5px;
+    border: 	#967259 solid 5px;
     border-radius: 15px;
 }
 
@@ -147,7 +147,7 @@ button {
 
 .container {
     width: 1100px;
-    background-color: #3882F6;
+    background-color: 	#967259;
     padding: 40px 0;
     color: white;
     display: flex;
@@ -173,7 +173,7 @@ button {
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #38220f;
     color: white;
     font-size: 18px;
     padding: 25px 0;
